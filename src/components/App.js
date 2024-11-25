@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
-import UseMemo from './UseMemo'; // Corrected import path
-import ReactMemo from './ReactMemo'; // Corrected import path
+import UseMemo from './UseMemo.js'; // Corrected import path
+import ReactMemo from './ReactMemo.js'; // Corrected import path
 
 const App = () => {
   // State management
