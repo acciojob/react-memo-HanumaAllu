@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import ReactmemoTodo from './reactmemoTodo';
+import ReactmemoTodo from './reactMemoTodo';
 import MemoCounter from './memoCounter';
 import MemoList from './memoList';
 
